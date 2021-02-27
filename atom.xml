@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jianyu1997.github.io</id>
-    <title>爱吃橘子的小锐</title>
-    <updated>2021-02-26T16:03:55.312Z</updated>
+    <id>https://ruitainan.github.io</id>
+    <title>ruirui的私人冒险</title>
+    <updated>2021-02-27T14:27:23.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://jianyu1997.github.io"/>
-    <link rel="self" href="https://jianyu1997.github.io/atom.xml"/>
-    <subtitle>玉壶光转一夜鱼龙舞</subtitle>
-    <logo>https://jianyu1997.github.io/images/avatar.png</logo>
-    <icon>https://jianyu1997.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 爱吃橘子的小锐</rights>
+    <link rel="alternate" href="https://ruitainan.github.io"/>
+    <link rel="self" href="https://ruitainan.github.io/atom.xml"/>
+    <subtitle>这是一个奇妙的有趣的好玩的个人空间</subtitle>
+    <logo>https://ruitainan.github.io/images/avatar.png</logo>
+    <icon>https://ruitainan.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, ruirui的私人冒险</rights>
     <entry>
         <title type="html"><![CDATA[2021.上元佳节]]></title>
-        <id>https://jianyu1997.github.io/post/QRNwd8gyP/</id>
-        <link href="https://jianyu1997.github.io/post/QRNwd8gyP/">
+        <id>https://ruitainan.github.io/post/QRNwd8gyP/</id>
+        <link href="https://ruitainan.github.io/post/QRNwd8gyP/">
         </link>
         <updated>2021-02-26T03:21:47.000Z</updated>
-        <content type="html"><![CDATA[<p>元宵快乐<img src="https://jianyu1997.github.io/post-images/1614338582010.jpg" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p>元宵快乐<img src="https://ruitainan.github.io/post-images/1614338582010.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://jianyu1997.github.io/post/hello-gridea/</id>
-        <link href="https://jianyu1997.github.io/post/hello-gridea/">
+        <id>https://ruitainan.github.io/post/hello-gridea/</id>
+        <link href="https://ruitainan.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
